@@ -2,7 +2,7 @@
 
 DevOps é uma cultura que utiliza práticas e ferramentas para aumentar a capacidade de uma organização de desenvolver e entregar softwares, serviços, aplicativos e demais produtos de tecnologia com alta velocidade, porém,sem pôr em risco a estabilidade.
 
-#O que é continuous integration?
+#O que é Continuous Integration?
 
 CI é quando novas mudanças no código de uma aplicação são desenvolvidas, testadas e consolidadas regularmente em um repositório compartilhado. É a solução ideal para evitar conflitos entre ramificações quando muitas aplicações são desenvolvidas ao mesmo tempo.
 
