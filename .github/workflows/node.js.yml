@@ -18,7 +18,6 @@ jobs:
     - run: echo "🍏 This job's status is ${{ job.status }}."
     - run: echo “Esse é o meu pipeline 321119413”
 
-
     runs-on: ubuntu-latest
 
     strategy:
