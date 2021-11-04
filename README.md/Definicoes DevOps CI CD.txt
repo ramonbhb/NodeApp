@@ -1,0 +1,11 @@
+a)	O que é devops ?
+R- DevOps é uma combinação de duas funções que normalmente são tratadas separadamente: desenvolvimento e operações. Essa definição de DevOps explica "o que é". O "porquê" é ainda mais fácil. Metodologia de desenvolvimento padronizada, comunicação clara e processos documentados suportados por uma plataforma de middleware comprovada e baseada em padrões melhoram o desenvolvimento de aplicativos e os ciclos de gerenciamento, trazem agilidade e fornecem maior disponibilidade e segurança para sua infraestrutura de TI. Claramente, o DevOps conecta pessoas, produtos e processos. Em última análise, o DevOps conecta a TI aos negócios.
+
+b)	O que é Continuous Integration?
+R – A Integração Contínua - CI é uma prática de desenvolvimento em que os desenvolvedores comprometem suas alterações de código (geralmente pequenas e incrementais) em um repositório de origem centralizado, que inicia um conjunto de compilações e testes automatizados.
+
+c)	O que é Continuous Delivery?
+R - A Entrega Contínua - CD começa onde a integração contínua termina. O CD automatiza a entrega de aplicativos para ambientes de infraestrutura em nuvem. A maioria das equipes trabalha com vários ambientes de desenvolvimento e teste, além do servidor de produção principal. A entrega contínua garantirá uma maneira automatizada de enviar as alterações de código novas e testadas em todos os ambientes de nuvem.
+
+Fonte: https://www.oracle.com/br/devops/what-is-devops/
+Pesquisado em 01/11/2021
