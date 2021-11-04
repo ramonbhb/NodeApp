@@ -24,7 +24,7 @@ jobs:
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
       - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
       - run: echo "🍏 This job's status is ${{ job.status }}."
-      - run: echo “Esse é o meu pipeline 321218240” 
+      - run: echo “Esse é o meu pipeline 321218240".
     - uses: actions/checkout@v2
     - name: Use Node.js ${{ matrix.node-version }}
       uses: actions/setup-node@v2
